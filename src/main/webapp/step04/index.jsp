@@ -49,7 +49,7 @@
   
 
   <main class="main">
-	킴쌤 테스트 test
+	test
     <!-- Hero Section -->
     <section id="hero" class="hero section accent-background">
 
